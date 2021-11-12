@@ -1,10 +1,8 @@
-### Marcos Polverini
+### Marcos Polverini [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospolverini/)](https://www.linkedin.com/in/marcospolverini/) 
 
 I'm a passionate developer about technology and languages, working with Java as the main language for more than 10 years.
 
-### Social links 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarcosPolverini)](https://github.com/MarcosPolverini) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospolverini/)](https://www.linkedin.com/in/marcospolverini/) 
+
 
 ### Skills
 #### Languages
